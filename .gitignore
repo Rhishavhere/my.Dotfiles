@@ -2,14 +2,14 @@
 *
 
 # Allow only these:
-!alacritty/
-!btop/
-!cava/
-!fastfetch/
-!hypr/
-!rofi/
-!waybar/
-!zathura
+!alacritty/**
+!btop/**
+!cava/**
+!fastfetch/**
+!hypr/**
+!rofi/**
+!waybar/**
+!zathura/**
 !.gitignore
 
 # Optional: exclude subdirs inside allowed folders
