@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Allow only these:
+!alacritty/**
+!btop/**
+!cava/**
+!fastfetch/**
+!hypr/**
+!rofi/**
+!waybar/**
+!zathura/**
+!.gitignore
+
+# Optional: exclude subdirs inside allowed folders
+hypr/cache/
+waybar/logs/
