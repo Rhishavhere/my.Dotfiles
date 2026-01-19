@@ -138,15 +138,6 @@ This setup is designed to be **yours**. Don't just use it—hack it.
 
 ---
 
-## 🛣️ Roadmap
-
-- [ ] Automated install & dependency script
-- [ ] Multiple theme presets (Light/Dark/OLED)
-- [ ] Expanded documentation per component
-- [ ] Optimized profile for Laptops (Battery/Touchpad)
-- [ ] Comprehensive screenshot gallery
-
----
 
 ## 📸 Screenshots
 
@@ -157,7 +148,7 @@ This setup is designed to be **yours**. Don't just use it—hack it.
 
 ## 🤝 Credits
 
-Built with open-source tools, plenty of caffeine, and late-night inspiration. Special thanks to the Hyprland community and the developers of the tools listed in the stack.
+Built with open-source tools, inspirations from the Ricing Community. Special thanks to the Hyprland community and the developers of the tools listed in the stack.
 
 ---
 
